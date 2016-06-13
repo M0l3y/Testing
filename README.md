@@ -1,2 +1,2 @@
-# Testing
-Testing GIT
+# This is my readme file
+Hello
